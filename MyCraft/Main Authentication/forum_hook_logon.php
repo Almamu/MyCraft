@@ -3,6 +3,8 @@ require_once './mysql.php';
 #Created by: Xolitude/Illiterate - Copyright © Xolitude/Illiterate 2014
 #Started: 1/17/14(January 17, 2014)
 
+#This can simply be changed from PhpBB.
+
 $aRequest = json_decode(file_get_contents('php://input'), true);
 $playerName = $aRequest['username'];
 $playerPassword = $aRequest['password'];
