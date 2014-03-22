@@ -3,6 +3,8 @@ MyCraft
 
 Minecraft Masterserver Emulation
 
+P.S: I think it's funny when Icedream bitches and moans about how I called this an "Emulation." 
+
 About
 =====
 
